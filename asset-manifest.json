@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mobsfriends/static/css/main.ee41b72f.css",
+    "main.js": "/mobsfriends/static/js/main.241b9d39.js",
+    "static/js/787.6ec0f6f0.chunk.js": "/mobsfriends/static/js/787.6ec0f6f0.chunk.js",
+    "static/media/SEGA.woff": "/mobsfriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/mobsfriends/index.html",
+    "main.ee41b72f.css.map": "/mobsfriends/static/css/main.ee41b72f.css.map",
+    "main.241b9d39.js.map": "/mobsfriends/static/js/main.241b9d39.js.map",
+    "787.6ec0f6f0.chunk.js.map": "/mobsfriends/static/js/787.6ec0f6f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee41b72f.css",
+    "static/js/main.241b9d39.js"
+  ]
+}
